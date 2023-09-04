@@ -20,8 +20,8 @@ export const MenuPrincipal = ({ menu }) => {
                             </div>
                             <h2>{product.title}</h2>
                             <h3>{product.descripcion}</h3>
-                            {/*al dar click en una pizza pasara a una nueva pestaña con el detalle de la pizza*/}
-                            <Link className='bx bx-cart-alt' to="/pizza"
+                            {/*al dar click en una viaje pasara a una nueva pestaña con el detalle de la pizza*/}
+                            <Link className='bx bx-cart-alt' to="/viaje"
                                   state={{  product }} >Comprar</Link>
                         </div>
 

@@ -10,7 +10,8 @@ export const data = [
             {price: 149.00, quantity:3},
             {price: 149.00, quantity:4},
             {price: 129.00, quantity:5}
-        ]
+        ],
+        impuesto: 4.5
     },
     {
         id: 2,
@@ -23,7 +24,8 @@ export const data = [
             {price: 400.00, quantity:3},
             {price: 400.00, quantity:4},
             {price: 380.00, quantity:5}
-        ]
+        ],
+        impuesto: 6
     },
     {
         id: 3,
@@ -36,7 +38,8 @@ export const data = [
             {price: 158.00, quantity:3},
             {price: 158.00, quantity:4},
             {price: 138.00, quantity:5}
-        ]
+        ],
+        impuesto: 7
     },
     {
         id: 4,
@@ -49,7 +52,8 @@ export const data = [
             {price: 649.00, quantity:3},
             {price: 649.00, quantity:4},
             {price: 629.00, quantity:5}
-        ]
+        ],
+        impuesto: 7.5
     },
     {
         id: 5,
@@ -62,6 +66,7 @@ export const data = [
             {price: 469.00, quantity:3},
             {price: 469.00, quantity:4},
             {price: 449.00, quantity:5}
-        ]
+        ],
+        impuesto: 4
     }
 ];
